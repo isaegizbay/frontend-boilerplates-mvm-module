@@ -1,0 +1,14 @@
+{
+  "name": "typescript-shared-module",
+  "version": "1.0.0",
+  "description": "model module of mvvm pattern",
+  "main": "index.js",
+  "repository": "https://github.com/isaegizbay/typescript-shared-module",
+  "author": "isaegizbay",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "typescript": "^4.6.3",
+    "yup": "^0.32.11"
+  }
+}
